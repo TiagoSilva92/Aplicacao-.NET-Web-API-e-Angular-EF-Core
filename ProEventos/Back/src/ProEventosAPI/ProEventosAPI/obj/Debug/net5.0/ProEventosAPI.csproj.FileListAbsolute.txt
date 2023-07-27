@@ -34,7 +34,6 @@ C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-
 C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\bin\Debug\net5.0\ProEventosAPI.runtimeconfig.json
 C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\bin\Debug\net5.0\ProEventosAPI.runtimeconfig.dev.json
 C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\bin\Debug\net5.0\ProEventosAPI.dll
-C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\bin\Debug\net5.0\ref\ProEventosAPI.dll
 C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\bin\Debug\net5.0\ProEventosAPI.pdb
 C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\bin\Debug\net5.0\Humanizer.dll
 C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
@@ -68,7 +67,6 @@ C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-
 C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
-C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\obj\Debug\net5.0\ProEventosAPI.csproj.AssemblyReference.cache
 C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\obj\Debug\net5.0\ProEventosAPI.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\obj\Debug\net5.0\ProEventosAPI.AssemblyInfoInputs.cache
 C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\obj\Debug\net5.0\ProEventosAPI.AssemblyInfo.cs
@@ -76,7 +74,6 @@ C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-
 C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\obj\Debug\net5.0\ProEventosAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\obj\Debug\net5.0\ProEventosAPI.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\obj\Debug\net5.0\staticwebassets\ProEventosAPI.StaticWebAssets.Manifest.cache
-C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\obj\Debug\net5.0\staticwebassets\ProEventosAPI.StaticWebAssets.xml
 C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\obj\Debug\net5.0\scopedcss\bundle\ProEventosAPI.styles.css
 C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\obj\Debug\net5.0\ProEventosAPI.RazorTargetAssemblyInfo.cache
 C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\obj\Debug\net5.0\ProEventosAPI.csproj.CopyComplete
@@ -84,3 +81,11 @@ C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-
 C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\obj\Debug\net5.0\ref\ProEventosAPI.dll
 C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\obj\Debug\net5.0\ProEventosAPI.pdb
 C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\obj\Debug\net5.0\ProEventosAPI.genruntimeconfig.cache
+C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\bin\Debug\net5.0\ProEventosAPI.StaticWebAssets.xml
+C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\obj\Debug\net5.0\ProEventosAPI.csproj.AssemblyReference.cache
+C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\obj\Debug\net5.0\staticwebassets\ProEventosAPI.StaticWebAssets.Pack.cache
+C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\obj\Debug\net5.0\staticwebassets\msbuild.ProEventosAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\obj\Debug\net5.0\staticwebassets\msbuild.build.ProEventosAPI.props
+C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.ProEventosAPI.props
+C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.ProEventosAPI.props
+C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\obj\Debug\net5.0\refint\ProEventosAPI.dll
