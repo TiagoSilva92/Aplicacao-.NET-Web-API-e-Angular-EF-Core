@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8sDifAclQfqsmR4VCYq5LWiUVFkKx+xqw+sjCj64IQF6xsMykhE0Kr9R+VbjdKtOZgIP85MDL9njIG9TbzgNVg==",
+  "dgSpecHash": "WciiMe42L33FOHkJO7HhcgYTvcgyXG9Lj7hdMJJjiT+koXCuM0Ng+Sre2Cz6nYieQHK6Di1pd7tJFIJUWfv7XA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tiago\\OneDrive\\Área de Trabalho\\Tiago\\Cursos\\Seja Full-Stack com .NET Web API e Angular + EF Core\\ProEventosAPI\\ProEventosAPI\\ProEventosAPI.csproj",
+  "projectFilePath": "C:\\Users\\tiago\\OneDrive\\Área de Trabalho\\Tiago\\Cursos\\Aplicacao-.NET-Web-API-e-Angular-EF-Core\\ProEventos\\Back\\src\\ProEventosAPI\\ProEventosAPI\\ProEventosAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tiago\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\tiago\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

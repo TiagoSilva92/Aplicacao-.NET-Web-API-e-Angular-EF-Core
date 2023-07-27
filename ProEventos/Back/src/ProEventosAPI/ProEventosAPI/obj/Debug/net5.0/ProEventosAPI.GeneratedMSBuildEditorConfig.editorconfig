@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = ProEventosAPI
-build_property.ProjectDir = C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Seja Full-Stack com .NET Web API e Angular + EF Core\ProEventosAPI\ProEventosAPI\
+build_property.ProjectDir = C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\

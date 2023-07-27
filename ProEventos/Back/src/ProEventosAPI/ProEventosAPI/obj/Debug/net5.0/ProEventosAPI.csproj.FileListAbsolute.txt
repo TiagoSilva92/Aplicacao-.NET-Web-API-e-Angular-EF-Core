@@ -27,3 +27,32 @@ C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Seja Full-Stack com .NET 
 C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Seja Full-Stack com .NET Web API e Angular + EF Core\ProEventosAPI\ProEventosAPI\obj\Debug\net5.0\ref\ProEventosAPI.dll
 C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Seja Full-Stack com .NET Web API e Angular + EF Core\ProEventosAPI\ProEventosAPI\obj\Debug\net5.0\ProEventosAPI.pdb
 C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Seja Full-Stack com .NET Web API e Angular + EF Core\ProEventosAPI\ProEventosAPI\obj\Debug\net5.0\ProEventosAPI.genruntimeconfig.cache
+C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\bin\Debug\net5.0\ProEventosAPI.exe
+C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\bin\Debug\net5.0\ProEventosAPI.deps.json
+C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\bin\Debug\net5.0\ProEventosAPI.runtimeconfig.json
+C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\bin\Debug\net5.0\ProEventosAPI.runtimeconfig.dev.json
+C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\bin\Debug\net5.0\ProEventosAPI.dll
+C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\bin\Debug\net5.0\ref\ProEventosAPI.dll
+C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\bin\Debug\net5.0\ProEventosAPI.pdb
+C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\obj\Debug\net5.0\ProEventosAPI.csproj.AssemblyReference.cache
+C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\obj\Debug\net5.0\ProEventosAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\obj\Debug\net5.0\ProEventosAPI.AssemblyInfoInputs.cache
+C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\obj\Debug\net5.0\ProEventosAPI.AssemblyInfo.cs
+C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\obj\Debug\net5.0\ProEventosAPI.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\obj\Debug\net5.0\ProEventosAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\obj\Debug\net5.0\ProEventosAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\obj\Debug\net5.0\staticwebassets\ProEventosAPI.StaticWebAssets.Manifest.cache
+C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\obj\Debug\net5.0\staticwebassets\ProEventosAPI.StaticWebAssets.xml
+C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\obj\Debug\net5.0\scopedcss\bundle\ProEventosAPI.styles.css
+C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\obj\Debug\net5.0\ProEventosAPI.RazorTargetAssemblyInfo.cache
+C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\obj\Debug\net5.0\ProEventosAPI.csproj.CopyComplete
+C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\obj\Debug\net5.0\ProEventosAPI.dll
+C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\obj\Debug\net5.0\ref\ProEventosAPI.dll
+C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\obj\Debug\net5.0\ProEventosAPI.pdb
+C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\obj\Debug\net5.0\ProEventosAPI.genruntimeconfig.cache
