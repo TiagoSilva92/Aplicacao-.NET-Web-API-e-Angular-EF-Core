@@ -40,7 +40,6 @@ C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-
 C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\obj\Debug\net5.0\ProEventosAPI.csproj.AssemblyReference.cache
 C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\obj\Debug\net5.0\ProEventosAPI.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\obj\Debug\net5.0\ProEventosAPI.AssemblyInfoInputs.cache
 C:\Users\tiago\OneDrive\Área de Trabalho\Tiago\Cursos\Aplicacao-.NET-Web-API-e-Angular-EF-Core\ProEventos\Back\src\ProEventosAPI\ProEventosAPI\obj\Debug\net5.0\ProEventosAPI.AssemblyInfo.cs
